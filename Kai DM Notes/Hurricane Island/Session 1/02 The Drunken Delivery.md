@@ -2,9 +2,9 @@
 # Overview:
 Former ship of [[Captain Jotch Jenkins]] and current ship of the party as of session 1. A sloop of war resembling the [HMS Resolution](https://en.wikipedia.org/wiki/HMS_Resolution_(1771)).
 ## Notable Features:
-A (currently broken) [evaporator](https://en.wikipedia.org/wiki/Evaporator_(marine)) that would supply its crew with potable (if stale tasting) water by distilling seawater. Can be found by either siding with the [[Fauna Federalis]] and [[Kai DM Notes/General Notes/The Navy]] to prevent a [[Firbolgs for Freedom]] uprising, or by overthrowing the Navy hold on [[04 Horny Island]]. Dealing with [[Fauna Federalis]] arbitrary for this objective?
+A (currently broken) [evaporator](https://en.wikipedia.org/wiki/Evaporator_(marine)) that would supply its crew with potable (if stale tasting) water by distilling seawater. Can be found by either siding with the [[Fauna Federalis]] and [[Kai DM Notes/General Notes/The Navy|The Navy]] to prevent a [[Firbolgs for Freedom]] uprising, or by overthrowing the Navy hold on [[99 Horny Island]]. Dealing with [[Fauna Federalis]] arbitrary for this objective?
 
-There is no main deck, but a split Hold with crew quarters located before a storage section. There is a small quarter deck which houses a small Captain's quarters and the [[02 Ship's Log]].
+There is no main deck, but a split Hold with crew quarters located before a storage section. There is a small quarter deck which houses a small Captain's quarters and the [[03 Ship's Log]].
 
 In the Hull are also four six-pound cannons, two on each side. On the deck at the bow is a half-pound cannon on a swivel.
 ## Stats:

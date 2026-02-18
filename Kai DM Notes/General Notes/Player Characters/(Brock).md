@@ -1,13 +1,13 @@
 ---
-cover: "[[ian.jpg]]"
-class: witch
-race: fungril
+cover: "[[brock.jpg]]"
+class: wizard
+race: clank
 groups: "[[Player View/Groups/Pirates|Pirates]]"
 ---
-#dhdm #pc #playerview
+#dhdm #pc
 ## Overview:
-- Fungril Witch
-- Tall, silent
+- Skeleton Marionette (Bone Clank) Wizard
+- 
 ## Wants:
 - 
 ## Fears:

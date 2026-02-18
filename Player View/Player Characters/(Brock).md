@@ -1,7 +1,10 @@
 ---
 cover: "[[brock.jpg]]"
+class: wizard
+race: clank
+groups: "[[Player View/Groups/Pirates|Pirates]]"
 ---
-#dhdm #pc #pirate #clank #wizard #playerview
+#dhdm #pc #playerview
 ## Overview:
 - Skeleton Marionette (Bone Clank) Wizard
 - 

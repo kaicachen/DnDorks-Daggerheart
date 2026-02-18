@@ -56,6 +56,34 @@ views:
       note.group: 91
 
 ```
+## Characters by Attribute:
+```base
+filters:
+  and:
+    - file.hasTag("dhdm")
+    - or:
+        - file.hasTag("npc")
+        - file.hasTag("pc")
+views:
+  - type: table
+    name: Characters
+    order:
+      - file.name
+      - groups
+      - race
+      - class
+    sort:
+      - property: group
+        direction: DESC
+      - property: allegiances
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 212
+      note.groups: 168
+
+```
 # Islands:
 ```base
 filters:

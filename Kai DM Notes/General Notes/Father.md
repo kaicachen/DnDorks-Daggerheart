@@ -1,12 +1,12 @@
 ---
 cover:
-group: "[[Firbolgs for Freedom]]"
+groups: "[[Firbolgs for Freedom]]"
 allegiances:
 ---
 #dhdm #npc #pirate #orc #warrior 
 ## Overview:
 - Leader of the local chapter of the [[Firbolgs for Freedom]]
-- Last of the first generation of Firbolg slaves on [[04 Horny Island]], remembers life before slavery
+- Last of the first generation of Firbolg slaves on [[99 Horny Island]], remembers life before slavery
 - 
 ## Voice Prompt:
 - 

@@ -4,7 +4,7 @@ class: ranger
 race: faerie
 groups: "[[Player View/Groups/Pirates|Pirates]]"
 ---
-#dhdm #pc #playerview
+#dhdm #pc
 ## Overview:
 - Dragonfly (faerie) Ranger
 - Small, winged

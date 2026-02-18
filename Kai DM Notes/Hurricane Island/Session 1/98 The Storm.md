@@ -1,5 +1,5 @@
 #dhdm #s1mp
-# A Severe Squall:
+# A Severe Squall
 It is twilight on the night of the second day adrift at sea. There has been no wind for hours, and even the night owls have drifted into the restless sleep of the dying, rocked by the lapping of the waves upon the hull.
 
 A great CRACK jolts you awake, and you look around in terror at the darkness around you. The wind has picked up to an incredible speed, and the ship pitches forward on chopping waves ten feet tall. Ocean water sprays horizontal across your face and soaks your clothes. Any items that are unsecured on deck are being blown across the ship. You have one turn to grab what you can hold and throw them below deck to safety.

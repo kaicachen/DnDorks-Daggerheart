@@ -1,10 +1,13 @@
 ---
 cover:
-group: "[[Kai DM Notes/General Notes/Pirates]]"
+groups:
+  - "[[Kai DM Notes/General Notes/Pirates|Pirates]]"
 allegiances:
-  - "[[Kai DM Notes/General Notes/The Navy]]"
+  - "[[Kai DM Notes/General Notes/The Navy|The Navy]]"
+class: warrior
+race: orc
 ---
-#dhdm #npc #pirate #orc #warrior 
+#dhdm #npc
 ## Overview:
 - Former (and Rightful) Captain of The Drunken Delivery
 - Surly and haughty

@@ -5,7 +5,7 @@ race: earthkin
 groups:
   - "[[Player View/Groups/Pirates|Pirates]]"
 ---
-#dhdm #pc #playerview
+#dhdm #pc
 ## Overview:
 - Earthkin Seraph
 - Tall, strong, Irish?
