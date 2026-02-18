@@ -1,19 +1,18 @@
 ---
 allegiances:
 enemies:
-  - "[[Player View/Groups/The Navy|The Navy]]"
+  - "[[Kai DM Notes/General Notes/The Navy|The Navy]]"
 ---
-#dhdm #group #playerview
+#dhdm #group 
 # Overview:
 Text
-## Characters:
+## # Characters:
 ```base
 filters:
   and:
     - file.hasTag("pirate")
     - file.hasTag("dhdm")
-    - file.hasTag("playerview")
 views:
   - type: table
-    name: Characters
+    name: Table
 ```

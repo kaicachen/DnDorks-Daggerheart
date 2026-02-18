@@ -5,7 +5,7 @@ cover: "[[ian.jpg]]"
 ## Overview:
 - Fungril Witch
 - Tall, silent
-## ## Wants:
+## Wants:
 - 
 ## Fears:
 - 
