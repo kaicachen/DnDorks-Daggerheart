@@ -5,7 +5,7 @@ race: ribbet
 groups:
   - "[[Player View/Groups/Pirates|Pirates]]"
 ---
-#pc #playerview
+#pc #playerview #pirate #frogmafia
 ## Overview:
 - Ribbet Druid
 - Stout, boisterous

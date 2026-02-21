@@ -4,7 +4,7 @@ class: wizard
 race: clank
 groups: "[[Player View/Groups/Pirates|Pirates]]"
 ---
-#pc #playerview
+#pc #playerview #pirate
 ## Overview:
 - Skeleton Marionette (Bone Clank) Wizard
 - 
