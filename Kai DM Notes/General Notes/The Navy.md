@@ -5,7 +5,7 @@ enemies:
   - "[[Firbolgs for Freedom]]"
   - "[[Kai DM Notes/General Notes/Pirates|Pirates]]"
 ---
-#dhdm #group
+#kaidm #group
 # Overview:
 Text
 ## Characters:
@@ -13,7 +13,7 @@ Text
 filters:
   and:
     - file.hasTag("navy")
-    - file.hasTag("dhdm")
+    - file.hasTag("kaidm")
 views:
   - type: table
     name: Table

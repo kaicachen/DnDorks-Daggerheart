@@ -4,7 +4,7 @@
 filters:
   and:
     - file.hasTag("pc")
-    - file.hasTag("dhdm")
+    - file.hasTag("kaidm")
 views:
   - type: cards
     name: PCs
@@ -20,7 +20,7 @@ views:
 filters:
   and:
     - file.hasTag("group")
-    - file.hasTag("dhdm")
+    - file.hasTag("kaidm")
 views:
   - type: table
     name: Groups
@@ -38,8 +38,13 @@ views:
 filters:
   and:
     - file.hasTag("npc")
-    - file.hasTag("dhdm")
+    - file.hasTag("kaidm")
 views:
+  - type: cards
+    name: NPCs Cards
+    order:
+	  - file.name
+    image: note.cover
   - type: table
     name: NPCs
     order:
@@ -60,7 +65,7 @@ views:
 ```base
 filters:
   and:
-    - file.hasTag("dhdm")
+    - file.hasTag("kaidm")
     - or:
         - file.hasTag("npc")
         - file.hasTag("pc")
@@ -73,10 +78,6 @@ views:
       - race
       - class
     sort:
-      - property: group
-        direction: DESC
-      - property: allegiances
-        direction: ASC
       - property: file.name
         direction: ASC
     columnSize:
@@ -89,7 +90,7 @@ views:
 filters:
   and:
     - file.hasTag("island")
-    - file.hasTag("dhdm")
+    - file.hasTag("kaidm")
 views:
   - type: table
     name: Table

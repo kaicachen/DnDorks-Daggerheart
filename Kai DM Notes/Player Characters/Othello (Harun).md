@@ -4,7 +4,7 @@ class: warrior
 race: elf
 groups: "[[Player View/Groups/Pirates|Pirates]]"
 ---
-#dhdm #pc
+#kaidm #pc #pirate
 ## Overview:
 - Elf Warrior
 - Tall, stoic

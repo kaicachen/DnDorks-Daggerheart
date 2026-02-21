@@ -3,7 +3,7 @@ allegiances:
 enemies:
   - "[[Player View/Groups/Pirates|Pirates]]"
 ---
-#dhdm #group #playerview
+#group #playerview
 # Overview:
 
 ## Characters:

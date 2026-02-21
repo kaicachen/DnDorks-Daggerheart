@@ -3,7 +3,7 @@ allegiances:
 enemies:
   - "[[Player View/Groups/The Navy|The Navy]]"
 ---
-#dhdm #group #playerview
+#group #playerview
 # Overview:
 Text
 ## Characters:

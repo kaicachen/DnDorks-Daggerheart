@@ -4,7 +4,6 @@
 filters:
   and:
     - file.hasTag("pc")
-    - file.hasTag("dhdm")
     - file.hasTag("playerview")
 views:
   - type: cards
@@ -21,7 +20,6 @@ views:
 filters:
   and:
     - file.hasTag("group")
-    - file.hasTag("dhdm")
     - file.hasTag("playerview")
 views:
   - type: table
@@ -40,7 +38,6 @@ views:
 filters:
   and:
     - file.hasTag("npc")
-    - file.hasTag("dhdm")
     - file.hasTag("playerview")
 views:
   - type: table
@@ -64,7 +61,6 @@ views:
 filters:
   and:
     - file.hasTag("island")
-    - file.hasTag("dhdm")
     - file.hasTag("playerview")
 views:
   - type: table

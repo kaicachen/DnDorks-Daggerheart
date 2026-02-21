@@ -1,7 +1,9 @@
 ---
 allegiances:
+enemies:
+  - "[[Kai DM Notes/General Notes/The Navy|The Navy]]"
 ---
-#dhdm #group
+#kaidm #group
 # Overview:
 Text
 ## Characters:
@@ -9,7 +11,7 @@ Text
 filters:
   and:
     - file.hasTag("frogmafia")
-    - file.hasTag("dhdm")
+    - file.hasTag("kaidm")
 views:
   - type: table
     name: Table

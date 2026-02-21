@@ -5,7 +5,7 @@ enemies:
   - "[[Firbolgs for Freedom]]"
   - "[[Kai DM Notes/General Notes/Pirates|Pirates]]"
 ---
-#dhdm #group
+#kaidm #group
 # Overview:
 Lower (but not lowest) caste under Navy oppression. Bootlickers and supporters of [[Kai DM Notes/General Notes/The Navy|The Navy]] when it suits them. Often clash with [[Firbolgs for Freedom]] because they are seen as an easier target than [[Kai DM Notes/General Notes/The Navy|The Navy]].
 # Characters:
@@ -13,7 +13,7 @@ Lower (but not lowest) caste under Navy oppression. Bootlickers and supporters o
 filters:
   and:
     - file.hasTag("faunafed")
-    - file.hasTag("dhdm")
+    - file.hasTag("kaidm")
 views:
   - type: table
     name: Table

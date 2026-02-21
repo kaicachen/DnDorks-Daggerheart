@@ -1,4 +1,4 @@
-#dhdm #island
+#kaidm #island
 # Overview:
 Native lands of the Firbolg, base of operations of the [[Firbolgs for Freedom]], located to the West of [[Kai DM Notes/General Notes/Fort Island]].
 

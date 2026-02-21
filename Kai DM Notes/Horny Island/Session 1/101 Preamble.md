@@ -1,4 +1,4 @@
-#dhdm  #s1mp
+#kaidm  #s1mp
 # Out to Sea
 Two minutes after you escape from [[Kai DM Notes/General Notes/Fort Island|Fort Island]], you stand aboard your shiny new ship and take in the fresh sea air. Freedom tastes salty, and a chill runs down your spine as mist carried by the wind touches your neck. Apart from the sound of your companions' making merry at getting a second chance at life, the world is suddenly silent. Gone is the cacophony of battle and the storm of blood and death that surrounded you on dry land. The sea is calm, and so are you.
 ## Questions:
@@ -14,7 +14,7 @@ Two hours after you escape from [[Kai DM Notes/General Notes/Fort Island|Fort Is
 Two days after you escape from [[Kai DM Notes/General Notes/Fort Island|Fort Island]], you lay aboard your ship and weep, but no tears leave your eyes. You discovered that the ship had not yet been resupplied for its next journey.
 
 >[!faq]- Question about The Ship (Easy Investigation)
->According to the [[03 Ship's Log]], the ship had just arrived in port after a long, grueling journey to the Western [[Isles of the Firbolg]] in search of spices.
+>According to the [[103 Ship's Log]], the ship had just arrived in port after a long, grueling journey to the Western [[Isles of the Firbolg]] in search of spices.
 
 As you lay about, waiting for rescue or death, your mind wanders to dark corners of your memory.
 ## Questions:

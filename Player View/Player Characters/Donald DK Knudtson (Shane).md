@@ -4,7 +4,7 @@ class: rogue
 race: simiah
 groups: "[[Player View/Groups/Pirates|Pirates]]"
 ---
-#dhdm #pc #playerview
+#pc #playerview
 ## Overview:
 - Lemur (Simiah) Rogue
 - Small, crafty

@@ -1,10 +1,10 @@
 ---
 allegiances:
 enemies:
-  - "[[Kai DM Notes/General Notes/The Navy]]"
   - "[[Fauna Federalis]]"
+  - "[[Kai DM Notes/General Notes/The Navy|The Navy]]"
 ---
-#dhdm #group
+#kaidm #group
 # Overview:
 Text
 # Characters:
@@ -12,7 +12,7 @@ Text
 filters:
   and:
     - file.hasTag("firbolgfree")
-    - file.hasTag("dhdm")
+    - file.hasTag("kaidm")
 views:
   - type: table
     name: Table

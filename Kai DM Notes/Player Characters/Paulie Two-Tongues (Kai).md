@@ -4,8 +4,9 @@ class: druid
 race: ribbet
 groups:
   - "[[Player View/Groups/Pirates|Pirates]]"
+  - "[[Frog Mafia]]"
 ---
-#dhdm #pc
+#kaidm #pc #pirate #frogmafia
 ## Overview:
 - Ribbet Druid
 - Stout, boisterous

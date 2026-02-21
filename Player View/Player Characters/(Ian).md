@@ -4,7 +4,7 @@ class: witch
 race: fungril
 groups: "[[Player View/Groups/Pirates|Pirates]]"
 ---
-#dhdm #pc #playerview
+#pc #playerview
 ## Overview:
 - Fungril Witch
 - Tall, silent
