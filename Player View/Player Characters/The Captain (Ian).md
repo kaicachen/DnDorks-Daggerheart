@@ -7,6 +7,7 @@ groups: "[[Player View/Groups/Pirates|Pirates]]"
 #pc #playerview #pirate
 ## Overview:
 - Fungril Witch
+- The Bloom Below
 - Tall, silent
 ## Wants:
 - 
