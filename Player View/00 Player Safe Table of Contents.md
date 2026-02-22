@@ -63,6 +63,7 @@ filters:
     - file.hasTag("island")
     - file.hasTag("playerview")
 views:
-  - type: table
+  - type: cards
     name: Table
+    image: note.cover
 ```
