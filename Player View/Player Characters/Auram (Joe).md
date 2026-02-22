@@ -8,10 +8,10 @@ groups:
 #pc #playerview #pirate
 ## Overview:
 - Earthkin Seraph
-- Tall, strong, Irish?
+- Tall, strong, "Scottish" (Dwarf)
 ## Wants:
 - 
 ## Fears:
 - 
 ## General:
-- 
+- Raised by Dwarves
