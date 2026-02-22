@@ -9,7 +9,7 @@ groups: "[[Player View/Groups/Pirates|Pirates]]"
 - Dragonfly (faerie) Ranger
 - Small, winged
 ## Wants:
-- Wants to be the greatest pirate of all time
+- Wants to
 ## Fears:
 - 
 ## General:
