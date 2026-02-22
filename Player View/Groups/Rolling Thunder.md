@@ -10,7 +10,7 @@ The law and order of the seas. While filled with powerful people of many walks o
 ```base
 filters:
   and:
-    - file.hasTag("navy")
+    - file.hasTag("rollingthunder")
     - file.hasTag("playerview")
 views:
   - type: table
