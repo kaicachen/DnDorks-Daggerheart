@@ -1,5 +1,5 @@
 ---
-cover: "[[gryphon.jpg]]"
+cover: "[[Griffin.jpg]]"
 class: ranger
 race: faerie
 groups: "[[Player View/Groups/Pirates|Pirates]]"
