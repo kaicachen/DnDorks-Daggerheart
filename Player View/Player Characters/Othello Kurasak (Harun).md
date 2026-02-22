@@ -8,6 +8,7 @@ groups: "[[Player View/Groups/Pirates|Pirates]]"
 ## Overview:
 - Elf Warrior
 - Tall, stoic
+- Highborn
 ## Wants:
 - 
 ## Fears:

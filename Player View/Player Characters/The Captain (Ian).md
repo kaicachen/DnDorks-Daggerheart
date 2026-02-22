@@ -14,4 +14,4 @@ groups: "[[Player View/Groups/Pirates|Pirates]]"
 ## Fears:
 - 
 ## General:
-- 
+- He is the Corpse of a dead pirate captain that The Bloom Below has taken over
