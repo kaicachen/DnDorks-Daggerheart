@@ -6,8 +6,7 @@ groups: "[[Player View/Groups/Pirates|Pirates]]"
 ---
 #pc #playerview #pirate
 ## Overview:
-- Dragonfly (faerie) Ranger
-- Very small, lanky, grimy winged creature.
+- A 1' 8" tall Faerie, he resembles a blend of Dragonfly and Praying Mantis. Griffin is a lanky, grimy, mess of a creature.
 ## Wants:
 - To become the greatest pirate. (So that he can receive the love and adoration of his family)
 ## Fears:
@@ -17,8 +16,6 @@ groups: "[[Player View/Groups/Pirates|Pirates]]"
 - Is attempting to tinker/engineer his way to be the best of his family.
 - Grew up seeing the sailors of a port city near his village, and craved that feeling of adventure the open ocean brought.
 ### Backstory:
-A 1' 8" tall Faerie, he resembles a blend of Dragonfly and Praying Mantis. Griffin is a lanky, grimy, mess of a creature.
-
 Griffin was born on a massive forested island, into a full family. In multiple hundreds of siblings, and thousands upon thousands of cousins, Griffin the runt of his entire family.
 
 All of his siblings have so far gone on to do incredible things. Slayed massive beasts, climbed impossibly high mountains, sailed the entirety of the ocean, delved into the great depths below, toppled nations. The list goes on and on of the amazing acts that those in his bloodline have accomplished. But Griffin was not blessed with large muscles, graceful agility, immense charisma, incredible understanding of lore, or anything really. Because of this he is easily the least favored of his siblings by his parents.
