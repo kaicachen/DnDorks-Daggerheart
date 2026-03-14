@@ -5,7 +5,7 @@ cover: "[[Griffin's Home.jpg]]"
 
 ![[Griffin's Home.jpg]]
 
-A map of [[Griffin Pondhawk (Drexel)]]'s home that he drew in his youth.
+A map of [[Player View/Player Characters/Griffin Pondhawk (Drexel)]]'s home that he drew in his youth.
 
 A massive verdant forest island. With two large mountains in the epicenter.
 

@@ -6,7 +6,7 @@ enemies:
 ---
 #group #playerview
 # Overview:
-Text
+The Storm Council's CIA.
 ## Characters:
 ```base
 filters:
