@@ -1,4 +1,4 @@
-#playerview #ship
+#playerview #ship #s1mp
 # Overview:
 Former ship of [[Kai_DM_Notes/NPCs/Captain Jotch Jenkins]] and current ship of the party as of session one. A sloop of war resembling the [HMS Resolution](https://en.wikipedia.org/wiki/HMS_Resolution_(1771)).
 ## Notable Features:
